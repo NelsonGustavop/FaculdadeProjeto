@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Ubuntu:wght@300&display=swap');
+
+html {
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 14px;
+    color: #333;
+    box-sizing: border-box;
+}
+
+main {
+    margin-top: 90px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 20px;
+}
+
+h6 {
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 6px;
+    margin-bottom: 2px;
+    color: #6c757d;
+}
+
+.toolbar {
+ position: absolute;
+ top: 0;
+ left: 0;
+ right: 0;
+ height: 80px;
+ display: flex;
+ align-items: center;
+ background-color: #000000d6;
+ color: white;
+ font-weight: 600;
+}
